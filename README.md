@@ -1,6 +1,6 @@
 # Changing Colors With An ESP32
 
-## This quick projects was just me messing around trying to controll and ESP32 using C++
+## This quick project was just me messing around trying to controll an ESP32 using C++
 
 This program basically just sends output to the 2,4,5 GPIO pins that alters the coloring of the light by cycling through different RGB values
 
